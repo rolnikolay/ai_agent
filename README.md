@@ -2,6 +2,10 @@
 
 A small CLI coding agent that uses Gemini function calling to interact with a local project.
 
+## Warning
+
+This AI agent is experimental and not advised for production or safety-critical use. Use it only at your own risk.
+
 ## What It Does
 
 - Accepts a user prompt from the command line
